@@ -1,0 +1,19 @@
+20	FTP -- Data
+21	FTP -- Control
+23	Telnet
+25	Simple Mail Transfer Protocol (SMTP)
+53	Domain Name System (DNS)
+80	HTTP
+109	POP2
+110	POP3
+115	Simple File Transfer Protocol (SFTP)
+118	SQL Services
+139	NetBIOS
+161	SNMP
+465	SMTP over SSL
+443	HTTPS
+546	DHCP Client
+547	DHCP Server
+5060	VoIP
+5353	mDNS
+8080	HTTP Proxy
